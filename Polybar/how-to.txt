@@ -1,0 +1,14 @@
+Download Polybar for Rainmeter here:
+https://github.com/khanhas/Polybar/releases
+
+
+How to set config.inc:
+Right Click on Polybar Skin > Edit Style > "Open Config File"
+
+This will open your config.inc file
+Remove everything from it
+
+Open my config.inc file
+Copy everything and paste in your config.inc file
+
+Done!

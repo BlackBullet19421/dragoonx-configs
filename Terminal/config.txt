@@ -1,0 +1,10 @@
+Make a new theme "Dragoon X" in Windows Terminal Settings
+
+Select these colors:
+
+Foreground: #CCD1DA
+Background: #252A33
+Cursor Color: #A3BE8C
+Selection Background: #BF616A
+
+Done!

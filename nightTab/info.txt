@@ -1,0 +1,8 @@
+Download nightTab here:
+https://chrome.google.com/webstore/detail/nighttab/hdpcadigjkbcpnlcpbcohpafiaefanki
+
+
+You can import the backup by:
+nightTab Settings > Data > Restore > Import from File > Select my file
+
+You can edit my config :)

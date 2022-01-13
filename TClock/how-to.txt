@@ -1,0 +1,10 @@
+Open "Clock64.exe" 
+Right Click on it
+
+Open "Clock Text"
+Font: "JetBrains Mono"
+Size: 10
+
+Then go to "Time Format"
+Select "Advanced Clock Format"
+copy everything from "tclock config.txt", then paste in "Advanced Clock Format"
